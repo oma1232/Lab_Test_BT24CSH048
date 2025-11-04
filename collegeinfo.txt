@@ -1,0 +1,5 @@
+college name: INDIAN INSTITUTE OF INFORMATION TECHNOLOGY , NAGPUR.
+roll no : BT24CSH048
+name : omkar swami
+department : CSE (HCIGT)
+program : B.TECH in computer science
